@@ -112,8 +112,8 @@ ul.social-link a{
    ========================================================================== */
 .header-container .logo{
 	position: relative;
-	width: 190px; /* Adjust Width for Logo if needed */
-	margin: -100px auto 3em;
+	width: 150px; /* Adjust Width for Logo if needed */
+	margin: -50px auto 3em;
 }
 
 
